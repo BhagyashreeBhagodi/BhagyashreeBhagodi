@@ -66,9 +66,6 @@ Hi! I'm **Bhagyashree**, a Computer Science Engineering graduate from Bengaluru,
 - Developed a system to classify emails as spam or legitimate.
 - Focused on identifying unwanted and potentially fraudulent emails.
 
-### 4. LifeChain – Blockchain-Based Organ Donation System
-- Developed a blockchain-based organ donation application.
-- Focused on donor registration, transparency and organ matching.
 
 ---
 
@@ -82,7 +79,9 @@ Hi! I'm **Bhagyashree**, a Computer Science Engineering graduate from Bengaluru,
 
 ## 👀 Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=BhagyashreeBhagodi&icon=0&color=12)
+
+
+![](https://komarev.com/ghpvc/?username=BhagyashreeBhagodi&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
